@@ -100,17 +100,3 @@ function handleClick(event) {
   `);
   instance.show();
 }
-
-// document
-//   .querySelector("body")
-//   .insertAdjacentHTML(
-//     "beforeend",
-//     `<button onclick="testLightbox()">Test Lightbox</button>`
-//   );
-
-// function testLightbox() {
-//   const testInstance = basicLightbox.create(
-//     `<img src="https://cdn.pixabay.com/photo/2019/05/14/16/43/rchids-4202820_1280.jpg" alt="Test Image">`
-//   );
-//   testInstance.show();
-// }
