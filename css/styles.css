@@ -7,7 +7,7 @@
   justify-content: center;
   /* align-items: flex-start; */
   gap: 24px;
-  margin: 24, auto, 0;
+  margin: 24 auto 0;
 }
 
 .gallery-image {
@@ -20,8 +20,4 @@
 .gallery-image:hover {
   /* transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1); */
   transform: scale(1.05);
-}
-
-.basicLightbox {
-  background-color: #008000;
 }
